@@ -26,7 +26,7 @@ Creating and managing users and groups ensures fine-grained access control to sy
 
 > 🔽 **Screenshots:**
 
-![User Group](https://github.com/InfoSec01/linux-administration/blob/main/screenshots/Users%20and%20Groups.png)
+<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/Users%20and%20Groups.png" width=60%/>
 
 ---
 
@@ -39,7 +39,7 @@ Controlled access to sensitive files and directories using Linux's robust permis
 
 > 🔽 **Screenshots:**
 
-![Permission Settings](https://github.com/InfoSec01/linux-administration/blob/main/screenshots/Filesystem%20Access%20Control.png)
+<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/Filesystem%20Access%20Control.png" width="60%"/>
 
 ---
 
@@ -52,9 +52,9 @@ Managed and troubleshooted services to ensure high system uptime and performance
 
 > 🔽 **Screenshots:**
 
-![Systemctl Status](https://github.com/InfoSec01/linux-administration/blob/main/screenshots/top%20CPU-consuming%20process.png)  
-![Process Check](https://github.com/InfoSec01/linux-administration/blob/main/screenshots/htop%20PID%20743%20user%20student%20CPU%20100%25.png)
-![Process Check](https://github.com/InfoSec01/linux-administration/blob/main/screenshots/kill%20%E2%80%939%20743%20PID%20743%20stopped.png)
+<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/top%20CPU-consuming%20process.png" width=60%/>  
+<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/htop%20PID%20743%20user%20student%20CPU%20100%25.png" width=60%/>
+<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/kill%20%E2%80%939%20743%20PID%20743%20stopped.png" width=60%/>
 
 ---
 
@@ -67,10 +67,10 @@ Configured critical services like DHCP, DNS, and Apache.
 
 > 🔽 **Screenshots:**
 
-![DHCP Setup](https://github.com/InfoSec01/linux-administration/blob/main/screenshots/DHCP%20configuration.png)  
-![DNS Config](https://github.com/InfoSec01/linux-administration/blob/main/screenshots/bind9%20restart%20and%20status.png)
-![DNS Config](https://github.com/InfoSec01/linux-administration/blob/main/screenshots/Configure%20forward%20lookup%20zone%20phoenix.com.png)
-![DNS Config](https://github.com/InfoSec01/linux-administration/blob/main/screenshots/nslookup.png)
+<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/DHCP%20configuration.png" width=60%/> 
+<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/bind9%20restart%20and%20status.png" width=60%/>
+<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/Configure%20forward%20lookup%20zone%20phoenix.com.png" width=60%/>
+<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/nslookup.png" width=60%/>
 
 ---
 
@@ -84,10 +84,10 @@ Simulated a business disaster-recovery scenario.
 
 > 🔽 **Screenshots:**
 
-![SSH Setup](https://github.com/InfoSec01/linux-administration/blob/main/screenshots/SSH%20to%20access%20server%20shell%20on%20client%20machine.png)  
-![Rsync Backup](https://github.com/InfoSec01/linux-administration/blob/main/screenshots/local%20backup%20rsync.png)  
-![Cronjob Config](https://github.com/InfoSec01/linux-administration/blob/main/screenshots/Schedule%20rsync%20cron%20job.png)
-![Cronjob Config](https://github.com/InfoSec01/linux-administration/blob/main/screenshots/1%20minute%20file%20backup%20new-file.txt.png)
+<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/SSH%20to%20access%20server%20shell%20on%20client%20machine.png" width=60%/>  
+<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/local%20backup%20rsync.png" width=60%/>
+<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/Schedule%20rsync%20cron%20job.png" width=60%/>
+<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/1%20minute%20file%20backup%20new-file.txt.png" width=60%/>
 
 ---
 
@@ -100,9 +100,9 @@ Built a logging system to detect problems before they escalate.
 
 > 🔽 **Screenshots:**
 
-![Logwatch Setup](https://github.com/InfoSec01/linux-administration/blob/main/screenshots/server%20rsyslog%20configured.png)
-![Logwatch Setup](https://github.com/InfoSec01/linux-administration/blob/main/screenshots/logrotate%20syslog%20output.png)
-![Logwatch Setup](https://github.com/InfoSec01/linux-administration/blob/main/screenshots/logwatch%20report%20mail.png)
+<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/server%20rsyslog%20configured.png" width=60%/> 
+<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/logrotate%20syslog%20output.png" width=60%/> 
+<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/logwatch%20report%20mail.png" width=60%/> 
 
 ---
 
