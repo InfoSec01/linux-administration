@@ -102,6 +102,7 @@ Simulated a business disaster-recovery scenario.
 <img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/Authorize%20key%20pair%20on%20server.png" width="60%"/>
 <img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/Password-less%20SSH%20Auth.png" width="60%"/>
 <img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/SSH%20to%20access%20server%20shell%20on%20client%20machine.png" width="60%"/>
+<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/local%20backup%20rsync.png" width="60%"/>
 
 ---
 
@@ -114,9 +115,15 @@ Built a logging system to detect problems before they escalate.
 
 > 🔽 **Screenshots:**
 
-<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/server%20rsyslog%20configured.png" width="60%"/> 
-<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/logrotate%20syslog%20output.png" width="60%"/> 
-<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/logwatch%20report%20mail.png" width="60%"/> 
+<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/rsyslog%20installed%20status.png" width="60%"/> 
+<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/rsyslog%20config%20on%20server.png" width="60%"/>
+<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/client%20rsyslog%20configured.png" width="60%"/>
+<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/server%20rsyslog%20configured.png" width="60%"/>
+<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/log%20rotation%20config%20on%20server.png" width="60%"/>
+<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/log%20sent%20from%20client.png" width="60%"/>
+<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/log%20received%20on%20server.png" width="60%"/>
+<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/logrotate%20syslog%20output.png" width="60%"/>
+<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/logwatch%20report%20mail.png" width="60%"/>
 
 ---
 
