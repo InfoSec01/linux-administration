@@ -28,7 +28,7 @@ Creating and managing users and groups ensures fine-grained access control to sy
 
 > 🔽 **Screenshots:**
 
-<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/Users%20and%20Groups.png" width="60%"/>
+<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/Users%20and%20Groups.png" width="50%"/>
 
 ---
 
@@ -41,7 +41,7 @@ Controlled access to sensitive files and directories using Linux's robust permis
 
 > 🔽 **Screenshots:**
 
-<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/Filesystem%20Access%20Control.png" width="60%"/>
+<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/Filesystem%20Access%20Control.png" width="50%"/>
 
 ---
 
@@ -54,11 +54,11 @@ Managed and troubleshooted services to ensure high system uptime and performance
 
 > 🔽 **Screenshots:**
 
-<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/apache2%20active%20status.png" width="60%"/>
-<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/firewalld%20active%20status.png" width="60%">
-<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/top%20CPU-consuming%20process.png" width="60%"/>  
-<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/htop%20PID%20743%20user%20student%20CPU%20100%25.png" width="60%"/>
-<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/kill%20%E2%80%939%20743%20PID%20743%20stopped.png" width="60%"/>
+<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/apache2%20active%20status.png" width="50%"/>
+<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/firewalld%20active%20status.png" width="50%">
+<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/top%20CPU-consuming%20process.png" width="50%"/>  
+<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/htop%20PID%20743%20user%20student%20CPU%20100%25.png" width="50%"/>
+<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/kill%20%E2%80%939%20743%20PID%20743%20stopped.png" width="50%"/>
 
 ---
 
@@ -71,10 +71,10 @@ Configured critical services like DHCP, DNS, and Apache.
 
 > 🔽 **Screenshots:**
 
-<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/DHCP%20configuration.png" width="60%"/> 
-<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/bind9%20restart%20and%20status.png" width="60%"/>
-<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/Configure%20forward%20lookup%20zone%20phoenix.com.png" width="60%"/>
-<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/nslookup.png" width="60%"/>
+<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/DHCP%20configuration.png" width="50%"/> 
+<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/bind9%20restart%20and%20status.png" width="50%"/>
+<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/Configure%20forward%20lookup%20zone%20phoenix.com.png" width="50%"/>
+<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/nslookup.png" width="50%"/>
 
 ---
 
@@ -88,21 +88,21 @@ Simulated a business disaster-recovery scenario.
 
 > 🔽 **Screenshots:**
 
-<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/Available%20Disk.png" width="60%"/>
-<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/copy%20of%20disk.png" width="60%"/>
-<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/backup%20img%20mounted%20to%20disk.png" width="60%"/>
-<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/compressed%20file%20created.png" width="60%"/>
-<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/file%20extracted%20in%20new%20directory%20.png" width="60%"/>
-<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/Schedule%20rsync%20cron%20job.png" width="60%">
-<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/1%20minute%20file%20backup%20new-file.txt.png" width="60%">
-<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/Backup%20folder%20created%20in%20server.png" width="60%">
-<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/Templates%20folder%20backup%20actioned%20in%20client.png" width="60%"/>
-<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/Templates%20folder%20backed%20up%20in%20server.png" width="60%"/>
-<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/Create%20key%20pair%20on%20client%20machine.png" width="60%"/>
-<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/Authorize%20key%20pair%20on%20server.png" width="60%"/>
-<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/Password-less%20SSH%20Auth.png" width="60%"/>
-<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/SSH%20to%20access%20server%20shell%20on%20client%20machine.png" width="60%"/>
-<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/local%20backup%20rsync.png" width="60%"/>
+<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/Available%20Disk.png" width="50%"/>
+<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/copy%20of%20disk.png" width="50%"/>
+<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/backup%20img%20mounted%20to%20disk.png" width="50%"/>
+<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/compressed%20file%20created.png" width="50%"/>
+<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/file%20extracted%20in%20new%20directory%20.png" width="50%"/>
+<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/Schedule%20rsync%20cron%20job.png" width="50%">
+<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/1%20minute%20file%20backup%20new-file.txt.png" width="50%">
+<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/Backup%20folder%20created%20in%20server.png" width="50%">
+<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/Templates%20folder%20backup%20actioned%20in%20client.png" width="50%"/>
+<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/Templates%20folder%20backed%20up%20in%20server.png" width="50%"/>
+<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/Create%20key%20pair%20on%20client%20machine.png" width="50%"/>
+<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/Authorize%20key%20pair%20on%20server.png" width="50%"/>
+<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/Password-less%20SSH%20Auth.png" width="50%"/>
+<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/SSH%20to%20access%20server%20shell%20on%20client%20machine.png" width="50%"/>
+<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/local%20backup%20rsync.png" width="50%"/>
 
 ---
 
@@ -115,15 +115,15 @@ Built a logging system to detect problems before they escalate.
 
 > 🔽 **Screenshots:**
 
-<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/rsyslog%20installed%20status.png" width="60%"/> 
-<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/rsyslog%20config%20on%20server.png" width="60%"/>
-<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/client%20rsyslog%20configured.png" width="60%"/>
-<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/server%20rsyslog%20configured.png" width="60%"/>
-<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/log%20rotation%20config%20on%20server.png" width="60%"/>
-<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/log%20sent%20from%20client.png" width="60%"/>
-<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/log%20received%20on%20server.png" width="60%"/>
-<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/logrotate%20syslog%20output.png" width="60%"/>
-<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/logwatch%20report%20mail.png" width="60%"/>
+<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/rsyslog%20installed%20status.png" width="50%"/> 
+<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/rsyslog%20config%20on%20server.png" width="50%"/>
+<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/client%20rsyslog%20configured.png" width="50%"/>
+<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/server%20rsyslog%20configured.png" width="50%"/>
+<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/log%20rotation%20config%20on%20server.png" width="50%"/>
+<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/log%20sent%20from%20client.png" width="50%"/>
+<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/log%20received%20on%20server.png" width="50%"/>
+<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/logrotate%20syslog%20output.png" width="50%"/>
+<img src="https://github.com/InfoSec01/linux-administration/blob/main/screenshots/logwatch%20report%20mail.png" width="50%"/>
 
 ---
 
