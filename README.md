@@ -1,4 +1,6 @@
-# 🛡️ Linux Administration: Real-World Skills for Secure & Reliable Systems
+<div align="center">
+<h1># 🛡️ Linux Administration: Real-World Skills for Secure & Reliable Systems</h1>
+</div>
 
 Welcome to the **Linux Administration** lab — a professionally built and documented guide through core system administration tasks that ensure security, reliability, and performance in any production environment.
 
