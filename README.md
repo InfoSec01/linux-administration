@@ -140,9 +140,9 @@ This lab showcases **production-ready Linux administration skills** that allow o
 
 ## 🚀 Let’s Work Together
 
-I bring not only technical ability, but a deep understanding of operational impact. I build systems that work—securely, efficiently, and resiliently.
+I bring not only technical ability, but understanding of operational impact. I continue to learn on building systems that work—securely, efficiently, and resiliently.
 
-📬 **Contact me if your organization needs someone who can walk the talk in System, Linux, and Network Administration.**
+📬 **Contact**
 - baratulkhan@gmail.com
 
 ---
