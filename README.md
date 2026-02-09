@@ -10,12 +10,12 @@ This project isn't just academic—it's designed to demonstrate how I apply real
 
 ## 📁 Contents
 
-1. [👥 User & Group Management]
-2. [📂 Filesystem Permissions]
-3. [🔧 Services & Processes]
-4. [🌐 Network Services]
-5. [💾 Backup & Restore]
-6. [📊 Centralized Logging & Monitoring]
+1. 👥 User & Group Management
+2. 📂 Filesystem Permissions
+3. 🔧 Services & Processes
+4. 🌐 Network Services
+5. 💾 Backup & Restore
+6. 📊 Centralized Logging & Monitoring
 
 ---
 
